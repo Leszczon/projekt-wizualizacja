@@ -90,7 +90,7 @@ fviz_pca_ind(dataset.pca, geom.ind = "point", pointshape = 21,
              label = "var",
              col.var = "black",
              repel = TRUE,
-             legend.title = "Eye Detection") +
+             legend.title = "Class") +
   ggtitle("2D PCA-plot") +
   theme(plot.title = element_text(hjust = 0.5)) + xlim(-10, -4) + ylim(-3, 5)
 
