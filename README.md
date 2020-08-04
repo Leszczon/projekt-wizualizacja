@@ -1,6 +1,7 @@
 # Data Visualisation Project
 
 Small projects for Data Visualisation Course in R language:
+
 -comparing PCA and LDA methods
 -self organizing maps
 
